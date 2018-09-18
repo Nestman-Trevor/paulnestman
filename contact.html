@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Paul Nestman - Contact</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Paul Nestman Contact Information">
+        <meta name="keywords" content="Paul Nestman, CPA, CFO">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <script src="scripts.js"></script>
+    </head>
+    <body onload="init();">
+        <header class="main-header">
+            <nav class="nav">
+                <a class="nav_link" href="index.html">About</a>
+                <a class="nav_link" href="work.html">Work</a>
+                <a class="nav_link" href="contact.html">Contact</a>
+            </nav>
+        </header>
+        <section class="center paulBack">
+            <h1>Contact Me</h1>
+        </section>
+        <section class="center">
+            <div class="contact-section">
+                <form class="gform contact-form" method="post" action="https://script.google.com/macros/s/AKfycby-yOQ84O3H229OKGIbCIc5MfDT7IN9WPYdR4fjGbMK28For0w/exec">
+                    <p>Send a message</p>
+                    <div class="input-row">
+                        <input type="text" name="name" id="name" required />
+                        <label class="above" for="name">Name</label>
+                        <span class="input-underline"></span>
+                    </div>
+                    <div class="input-row">
+                        <input type="text" name="phone" id="phone" required />
+                        <label class="above" for="phone">Phone</label>
+                        <span class="input-underline"></span>
+                    </div>
+                    <div class="input-row">
+                        <input type="text" name="email" id="email" required />
+                        <label class="above" for="email">Email</label>
+                        <span id="email-underline" class="input-underline"></span>
+                    </div>
+                    <small id="email-error" class="error-txt">INVALID EMAIL</small>
+                    <div class="input-row" id="message-row">
+                        <textarea rows="1" style="height:1em;" type="text" name="message" id="message" required></textarea>
+                        <label class="above" for="message">Message</label>
+                        <span class="input-underline"></span>
+                    </div>
+                    <button id="send" type="submit">Send Message</button>
+                </form>
+                <div class="contact-info">
+                    <p>Call directly</p>
+                    <a href="tel:+18016083282">801-608-3282</a>
+                    <p>Email</p>
+                    <a href="mailto:paulnestman@yahoo.com">paulnestman@yahoo.com</a>
+                </div>
+            </div>
+        </section>
+        <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+    </body>
+</html>
