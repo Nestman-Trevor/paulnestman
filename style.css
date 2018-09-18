@@ -146,7 +146,6 @@ section:first-of-type {
 @media only screen and (max-width: 600px){
     .work-header {
         align-items: center;
-        justify-content: center;
         padding: 4vw;
     }
     .work-header h1 {
@@ -748,7 +747,6 @@ ul.cd-author-info li span {
 @media only screen and (max-width: 1000px) {
     .paulBack {
         align-items: center;
-        justify-content: center;
     }
     .paulBack h1 {
         font-size:80px;
