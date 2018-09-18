@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.nojekyll" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/Paul-3.jpg" afterPath="$PROJECT_DIR$/images/Paul-3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/PaulBW.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/PaulBW2.jpg" afterPath="$PROJECT_DIR$/images/PaulBW2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_AndWife.JPG" afterPath="$PROJECT_DIR$/images/Paul_AndWife.JPG" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_Nestman_polo.jpg" afterPath="$PROJECT_DIR$/images/Paul_Nestman_polo.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_family_camping.jpeg" afterPath="$PROJECT_DIR$/images/Paul_family_camping.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_mt_nebo.jpg" afterPath="$PROJECT_DIR$/images/Paul_mt_nebo.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_skiing_wtih_sons.jpeg" afterPath="$PROJECT_DIR$/images/Paul_skiing_wtih_sons.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/Paul_triathlon.jpeg" afterPath="$PROJECT_DIR$/images/Paul_triathlon.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/paul_family.jpg" afterPath="$PROJECT_DIR$/images/paul_family.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47100174">
+    <splitter split-orientation="horizontal" split-proportion="0.66374266">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -40,10 +31,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="work.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="work.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/work.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="707">
+                <state relative-caret-position="2414">
                   <caret line="142" column="53" lean-forward="false" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
                   <folding />
                 </state>
@@ -53,8 +44,18 @@
           <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1037">
+                <state relative-caret-position="261">
                   <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".nojekyll" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.nojekyll">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -282,7 +283,7 @@
       <workItem from="1537194108146" duration="395000" />
       <workItem from="1537240941192" duration="14038000" />
       <workItem from="1537280538816" duration="69000" />
-      <workItem from="1537281670513" duration="1905000" />
+      <workItem from="1537281670513" duration="3410000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -298,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537282878632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="workspace in git ignore?">
+      <created>1537283589113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537283589113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95305000" />
+    <option name="totallyTimeSpent" value="96810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -312,7 +320,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -342,14 +350,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3468">
-          <caret line="204" column="23" lean-forward="true" selection-start-line="204" selection-start-column="23" selection-end-line="204" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -705,16 +705,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/Paul_bike.jpeg" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="40" lean-forward="false" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
-          <folding>
-            <marker date="1537251243568" expanded="false" signature="9803:9820" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/form-submission-handler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1870">
@@ -726,17 +716,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
+        <state relative-caret-position="2414">
           <caret line="142" column="53" lean-forward="false" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
           <folding />
         </state>
@@ -762,6 +744,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="40" lean-forward="false" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+          <folding>
+            <marker date="1537251243568" expanded="false" signature="9803:9820" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.nojekyll">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
