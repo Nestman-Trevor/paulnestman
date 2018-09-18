@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.nojekyll" />
+    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="styling updates for header titles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.66374266">
+    <splitter split-orientation="horizontal" split-proportion="0.44896394">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -41,21 +41,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="261">
-                  <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="33" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".nojekyll" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.nojekyll">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="244">
+                  <caret line="42" column="166" lean-forward="false" selection-start-line="42" selection-start-column="166" selection-end-line="42" selection-end-column="166" />
                   <folding />
                 </state>
               </provider>
@@ -64,7 +54,7 @@
           <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
+                <state relative-caret-position="413">
                   <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding />
                 </state>
@@ -88,27 +78,17 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="282">
-                  <caret line="255" column="19" lean-forward="false" selection-start-line="255" selection-start-column="19" selection-end-line="255" selection-end-column="19" />
+                <state relative-caret-position="275">
+                  <caret line="750" column="31" lean-forward="false" selection-start-line="750" selection-start-column="31" selection-end-line="750" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-561">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name="gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -133,8 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>person</find>
-      <find>disableAllButtons</find>
       <find>qualific</find>
       <find>cd-author-info</find>
       <find>intro</find>
@@ -163,6 +141,8 @@
       <find>section</find>
       <find>section_en</find>
       <find>fam-</find>
+      <find>personalHeader-title</find>
+      <find>@media</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,12 +154,12 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/scripts.js" />
         <option value="$PROJECT_DIR$/personal.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/form-submission-handler.js" />
         <option value="$PROJECT_DIR$/work.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -189,11 +169,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-16" />
-    <option name="y" value="-15" />
-    <option name="width" value="1646" />
-    <option name="height" value="565" />
+    <option name="y" value="185" />
+    <option name="width" value="1871" />
+    <option name="height" value="687" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,7 +263,7 @@
       <workItem from="1537194108146" duration="395000" />
       <workItem from="1537240941192" duration="14038000" />
       <workItem from="1537280538816" duration="69000" />
-      <workItem from="1537281670513" duration="3410000" />
+      <workItem from="1537281670513" duration="5091000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -306,21 +286,29 @@
       <option name="project" value="LOCAL" />
       <updated>1537283589113</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nojekyll added for now">
+      <created>1537286629648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537286629648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96810000" />
+    <option name="totallyTimeSpent" value="98491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-16" y="185" width="1871" height="687" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2792413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28914347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19459459" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -343,7 +331,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workspace created ?" />
     <MESSAGE value="workspace in git ignore?" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace in git ignore?" />
+    <MESSAGE value="nojekyll added for now" />
+    <MESSAGE value="styling updates for header titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling updates for header titles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -696,38 +686,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/Paul_bike.jpeg" />
-    <entry file="file://$PROJECT_DIR$/form-submission-handler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="29" lean-forward="false" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-          <folding>
-            <marker date="1537252759007" expanded="true" signature="3251:3257" ph=" " />
-            <marker date="1537252759007" expanded="true" signature="3549:3555" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2414">
           <caret line="142" column="53" lean-forward="false" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="255" column="19" lean-forward="false" selection-start-line="255" selection-start-column="19" selection-end-line="255" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -758,18 +721,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.nojekyll">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="750" column="31" lean-forward="false" selection-start-line="750" selection-start-column="31" selection-end-line="750" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-submission-handler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="29" lean-forward="false" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+          <folding>
+            <marker date="1537252759007" expanded="true" signature="3251:3257" ph=" " />
+            <marker date="1537252759007" expanded="true" signature="3549:3555" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="42" column="166" lean-forward="false" selection-start-line="42" selection-start-column="166" selection-end-line="42" selection-end-column="166" />
           <folding />
         </state>
       </provider>

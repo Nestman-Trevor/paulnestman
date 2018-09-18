@@ -666,9 +666,16 @@ ul.cd-author-info li span {
 .personalHeader-title {
     position: absolute;
     z-index: 5;
+    padding: 40px 0;
+    text-align:center;
 }
 .personalHeader-title h1 {
     font-size: 8vw;
+}
+@media only screen and (max-width: 850px) {
+    .personalHeader-title h1 {
+        font-size: 68px;
+    }
 }
 .section_intro {
     padding: 0 5vw;
@@ -737,6 +744,15 @@ ul.cd-author-info li span {
     align-items: flex-start;
     justify-content: flex-end;
     padding-bottom: 10vw;
+}
+@media only screen and (max-width: 1000px) {
+    .paulBack {
+        align-items: center;
+        justify-content: center;
+    }
+    .paulBack h1 {
+        font-size:80px;
+    }
 }
 .contact-section {
     display: flex;
