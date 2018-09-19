@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change beforePath="$PROJECT_DIR$/work.html" afterPath="$PROJECT_DIR$/work.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,8 +81,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="381">
-                  <caret line="667" column="24" lean-forward="false" selection-start-line="667" selection-start-column="24" selection-end-line="667" selection-end-column="24" />
+                <state relative-caret-position="255">
+                  <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -267,7 +265,7 @@
       <workItem from="1537280538816" duration="69000" />
       <workItem from="1537281670513" duration="5420000" />
       <workItem from="1537289951700" duration="2949000" />
-      <workItem from="1537314410629" duration="1494000" />
+      <workItem from="1537314410629" duration="1983000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -311,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537290638303</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated the heading text to be below the heading for the contact and work page. Work page changed some of the text so that the timeline now reads &quot;Previous Employment&quot; and the header reads &quot;Work Experience&quot;. The about page header text is still over the video, but now they should be able to click play on the video if it doesn't automatically start up.">
+      <created>1537316006106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537316006106</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103263000" />
+    <option name="totallyTimeSpent" value="103752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -352,7 +357,8 @@
     <MESSAGE value="nojekyll added for now" />
     <MESSAGE value="styling updates for header titles" />
     <MESSAGE value="Additional styling fixes for the header. Text below the head." />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional styling fixes for the header. Text below the head." />
+    <MESSAGE value="Updated the heading text to be below the heading for the contact and work page. Work page changed some of the text so that the timeline now reads &quot;Previous Employment&quot; and the header reads &quot;Work Experience&quot;. The about page header text is still over the video, but now they should be able to click play on the video if it doesn't automatically start up." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the heading text to be below the heading for the contact and work page. Work page changed some of the text so that the timeline now reads &quot;Previous Employment&quot; and the header reads &quot;Work Experience&quot;. The about page header text is still over the video, but now they should be able to click play on the video if it doesn't automatically start up." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -710,6 +716,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -775,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="667" column="24" lean-forward="false" selection-start-line="667" selection-start-column="24" selection-end-line="667" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding />
         </state>
       </provider>

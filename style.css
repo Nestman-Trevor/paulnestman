@@ -88,6 +88,7 @@ section:first-of-type {
 }
 .section_title h1 {
     text-align: center;
+    margin-left: -1vw;
 }
 @media only screen and (min-width: 1200px) {
     .section_title h1 {
@@ -97,6 +98,11 @@ section:first-of-type {
 @media only screen and (max-width: 650px) {
     .section_title h1 {
         font-size: 52px;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .section_title h1 {
+        font-size: 40px;
     }
 }
 .section_title + section {
