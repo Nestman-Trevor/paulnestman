@@ -60,13 +60,12 @@ section {
     width: 100%;
     background: #fff;
     padding: 4vw;
-    min-height: 500px;
 }
 .add-space {
     padding: calc(4vw + 30px);
 }
 section:first-of-type {
-    min-height: calc(80vh - 60px);
+    min-height: calc(70vh - 60px);
 }
 
 .center {
@@ -83,7 +82,26 @@ section:first-of-type {
     background-color: #1a1a1a;
     color: #f3f3f3;
 }
-
+.section_title {
+    min-height: 0;
+    padding: 5vw 4vw 15px;
+}
+.section_title h1 {
+    text-align: center;
+}
+@media only screen and (min-width: 1200px) {
+    .section_title h1 {
+        font-size: 96px;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .section_title h1 {
+        font-size: 52px;
+    }
+}
+.section_title + section {
+    padding-top: 10px;
+}
 
 /* NAV */
 .main-header {
@@ -127,31 +145,8 @@ section:first-of-type {
     background-position: left;
     background-size: auto 100%;
     background-repeat: no-repeat;
-    align-items: flex-end;
-    justify-content: flex-end;
-    padding-right: 25vw;
-    padding-bottom: 10vw;
 }
-.work-header h1 {
-    text-shadow: 1px 1px #fff;
-}
-@media only screen and (max-width: 1380px){
-    .work-header {
-        padding-bottom: 138px;
-    }
-    .work-header h1 {
-        font-size: 110px;
-    }
-}
-@media only screen and (max-width: 600px){
-    .work-header {
-        align-items: center;
-        padding: 4vw;
-    }
-    .work-header h1 {
-        font-size: 90px;
-    }
-}
+
 .timeline {
     position: relative;
     flex: 0 1 auto;
@@ -670,6 +665,7 @@ ul.cd-author-info li span {
 }
 .personalHeader-title h1 {
     font-size: 8vw;
+    pointer-events: none;
 }
 @media only screen and (max-width: 850px) {
     .personalHeader-title h1 {
@@ -739,18 +735,6 @@ ul.cd-author-info li span {
     -webkit-background-size: auto 100%;
     background-size: auto 100%;
     background-position: right;
-    text-shadow: 1px 1px #fff;
-    align-items: flex-start;
-    justify-content: flex-end;
-    padding-bottom: 10vw;
-}
-@media only screen and (max-width: 1000px) {
-    .paulBack {
-        align-items: center;
-    }
-    .paulBack h1 {
-        font-size:80px;
-    }
 }
 .contact-section {
     display: flex;
