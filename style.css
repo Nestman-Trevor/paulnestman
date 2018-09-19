@@ -162,18 +162,31 @@ section:first-of-type {
     list-style: none;
     margin: 0;
     padding: 0;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-column-gap: 100px
+    max-width: 600px;
+    width: 100%;
 }
 .core-qualifications_list li {
-    padding: 10px;
+    display: inline-block;
+    width: 50%;
+    float: left;
+    margin: 10px 0;
+}
+.core-qualifications_list li:nth-child(odd) {
+    padding-right: 50px;
+}
+.core-qualifications_list li:nth-child(even) {
+    padding-left: 50px;
 }
 @media only screen and (max-width: 700px) {
     .core-qualifications_list {
-        grid-template-columns: 1fr;
-        grid-column-gap: 0
+        width: auto;
+    }
+    .core-qualifications_list li{
+        padding: 0 !important;
+        float: none;
+        margin: 20px 0;
+        width: auto;
+        display: block;
     }
 }
 .timeline {
