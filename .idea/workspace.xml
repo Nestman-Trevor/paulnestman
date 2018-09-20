@@ -165,8 +165,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="269" />
+    <option name="x" value="21" />
+    <option name="y" value="195" />
     <option name="width" value="1871" />
     <option name="height" value="841" />
   </component>
@@ -262,7 +262,7 @@
       <workItem from="1537289951700" duration="2949000" />
       <workItem from="1537314410629" duration="11386000" />
       <workItem from="1537377133942" duration="756000" />
-      <workItem from="1537418055622" duration="77000" />
+      <workItem from="1537418055622" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -334,14 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537333517255</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Minor padding bottom added to the section_title to avoid cut off of fancy header.">
+      <created>1537418168533</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537418168533</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113988000" />
+    <option name="totallyTimeSpent" value="114195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="269" width="1871" height="841" extended-state="0" />
+    <frame x="21" y="195" width="1871" height="841" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16093835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -379,7 +386,8 @@
     <MESSAGE value="Minor adjustments to contact and work pages header title text." />
     <MESSAGE value="Added the qualifications section to the work page.&#10;IE overflow bugs should be fixed for the home page at least." />
     <MESSAGE value="Changed the Qualifications list on the work page from using display: grid. IE doesn't work with it." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the Qualifications list on the work page from using display: grid. IE doesn't work with it." />
+    <MESSAGE value="Minor padding bottom added to the section_title to avoid cut off of fancy header." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor padding bottom added to the section_title to avoid cut off of fancy header." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
