@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="Removed unnecessary code that was commented out.">
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCounterfeitProdScript.js" afterDir="false" />
+    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="Defer the loading of the script (on the test page)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testConterfeitProdScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +21,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="26" column="51" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="26" selection-end-column="51" />
+                <state relative-caret-position="-959">
+                  <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -36,8 +33,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+                <state relative-caret-position="480">
+                  <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -45,8 +45,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testCounterfeitProdScript.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                <state relative-caret-position="421">
+                  <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="19" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -295,7 +295,7 @@
       <workItem from="1540269803720" duration="159000" />
       <workItem from="1547516555757" duration="4884000" />
       <workItem from="1548182295512" duration="98000" />
-      <workItem from="1548349909748" duration="1372000" />
+      <workItem from="1548349909748" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -430,11 +430,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547517405008</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added test page for testing out a banner">
+      <created>1548352489806</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548352489806</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Defer the loading of the script (on the test page)">
+      <created>1548352724900</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548352724900</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125644000" />
+    <option name="totallyTimeSpent" value="126214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -481,7 +495,9 @@
     <MESSAGE value="Edited the file that is being tested because it got completely messed up somehow..." />
     <MESSAGE value="Removed test script." />
     <MESSAGE value="minor change to the test text font family" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor change to the test text font family" />
+    <MESSAGE value="Added test page for testing out a banner" />
+    <MESSAGE value="Defer the loading of the script (on the test page)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defer the loading of the script (on the test page)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/PaulBW2.jpg">
@@ -554,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="51" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="26" selection-end-column="51" />
+        <state relative-caret-position="-959">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -564,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCounterfeitProdScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="421">
+          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="19" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -594,8 +610,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="480">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
