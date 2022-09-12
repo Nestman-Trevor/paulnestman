@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +174,7 @@
       <workItem from="1548996448991" duration="552000" />
       <workItem from="1550689135786" duration="1970000" />
       <workItem from="1551986495614" duration="975000" />
-      <workItem from="1662985397505" duration="1395000" />
+      <workItem from="1662985397505" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -459,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662986124188</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Adjusted height style for testimonial section">
+      <created>1662986930375</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1662986930375</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -515,7 +519,8 @@
     <MESSAGE value="background on test page changed." />
     <MESSAGE value="Testing counterfeit stuff" />
     <MESSAGE value="Removed unnecessary files. Updated work experience." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary files. Updated work experience." />
+    <MESSAGE value="Adjusted height style for testimonial section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted height style for testimonial section" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/PaulBW2.jpg">
