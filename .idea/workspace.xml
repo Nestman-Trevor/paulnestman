@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="Testing counterfeit stuff">
-      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
+    <list default="true" id="4420aff8-1aa3-4d34-ad5c-d850851a7e71" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,13 +113,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/tnestman/p-repos/paulnestman",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tnestman/p-repos/paulnestman&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -176,7 +177,7 @@
       <workItem from="1548996448991" duration="552000" />
       <workItem from="1550689135786" duration="1970000" />
       <workItem from="1551986495614" duration="975000" />
-      <workItem from="1662985397505" duration="431000" />
+      <workItem from="1662985397505" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="workspace created ?">
       <created>1537282304668</created>
@@ -451,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551988186392</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Removed unnecessary files. Updated work experience.">
+      <created>1662986124188</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1662986124188</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -506,7 +514,8 @@
     <MESSAGE value="Defer the loading of the script (on the test page)" />
     <MESSAGE value="background on test page changed." />
     <MESSAGE value="Testing counterfeit stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing counterfeit stuff" />
+    <MESSAGE value="Removed unnecessary files. Updated work experience." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary files. Updated work experience." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/PaulBW2.jpg">

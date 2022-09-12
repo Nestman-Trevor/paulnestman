@@ -415,6 +415,7 @@ video {
 .testimonial-container {
     background-color: rgba(245, 245, 245, 1);
     width: 100%;
+    min-height: 600px;
 }
 
 .cd-testimonials-wrapper {
